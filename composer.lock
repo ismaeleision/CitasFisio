@@ -1064,6 +1064,7 @@
                 "symfony/var-dumper": "^6.0",
                 "tijsverkoyen/css-to-inline-styles": "^2.2.2",
                 "vlucas/phpdotenv": "^5.4.1",
+                "fakerphp/faker": "^1.9.2",
                 "voku/portable-ascii": "^2.0"
             },
             "conflict": {
